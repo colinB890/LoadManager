@@ -1,0 +1,35 @@
+Author: Colin Burgess
+Contact: ColinBurgess890@gmail.com
+
+Description
+-----------
+Load Manager is a Python-based application that helps manage load details for shipping purposes. It provides a user-friendly interface to enter and save load information, generate PDF reports for individual loads, and query existing load data.
+
+Features
+--------
+- Save load details including length, width, height, weight, product description, special comments, customer information, shipper information, and driver information.
+- Generate PDF reports for individual loads with customizable formatting.
+- Query existing load data based on Load ID.
+- Settings functionality to set company logo and information for display in PDF reports.
+- Integration with email service to send generated PDF reports as attachments.
+- Option to clear all input fields to start fresh.
+- Tab navigation between input fields for ease of use.
+
+Usage
+-----
+1. Launch the Load Manager application by running the `load_manager.py` script.
+2. Enter the load details including length, width, height, weight, product description, special comments, customer information, shipper information, and driver information.
+3. Click the "Save Load Details" button to save the load information.
+4. To generate a PDF report for a specific load, click the "Generate PDF" button and enter the Load ID.
+5. Use the "Settings" button to set the company logo and information for display in PDF reports.
+6. The "Query loads.csv" section allows you to search for existing load data based on Load ID.
+7. The "Clear" button clears all input fields to start fresh.
+8. The "Exit" button closes the application.
+
+Contributing
+------------
+Contributions to the Load Manager project are welcome and encouraged. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
+
+Contact
+-------
+For any inquiries, please contact Colin Burgess at ColinBurgess890@gmail.com.
